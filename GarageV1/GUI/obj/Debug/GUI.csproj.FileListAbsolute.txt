@@ -1,0 +1,190 @@
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.EmployeeIdInput.resources
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.Login.resources
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.SignUp.resources
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\GUI.exe.config
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\GUI.exe
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\GUI.pdb
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\BUS.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\DAO.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\DTO.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\MySql.Data.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\BUS.pdb
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\DAO.pdb
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\DTO.pdb
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\MySql.Data.xml
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.exe
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.pdb
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\EnvDTE.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\stdole.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\GUI\obj\Debug\GUI.Report.resources
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\GUI.exe.config
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\GUI.exe
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\GUI.pdb
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\BUS.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\DAO.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\DTO.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\MySql.Data.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\EnvDTE.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Google.Protobuf.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\stdole.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\EnvDTE80.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\VSLangProj.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\VSLangProj80.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.Build.Framework.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\VSLangProj2.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\BUS.pdb
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\DAO.pdb
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\DTO.pdb
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\MySql.Data.xml
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.exe.config
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.EmployeeIdInput.resources
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.Login.resources
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.MainForm.resources
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.Report.resources
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.SignUp.resources
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.exe
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.pdb
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\GUI\obj\Debug\GUI.DSKH.resources
