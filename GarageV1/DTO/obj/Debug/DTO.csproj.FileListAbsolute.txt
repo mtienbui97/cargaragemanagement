@@ -1,0 +1,6 @@
+C:\Users\My Tien Bui\source\repos\GarageV1\DTO\bin\Debug\DTO.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\DTO\bin\Debug\DTO.pdb
+C:\Users\My Tien Bui\source\repos\GarageV1\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\My Tien Bui\source\repos\GarageV1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\My Tien Bui\source\repos\GarageV1\DTO\obj\Debug\DTO.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\DTO\obj\Debug\DTO.pdb
