@@ -1,0 +1,23 @@
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\bin\Debug\DAO.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\bin\Debug\DAO.pdb
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\bin\Debug\DTO.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\bin\Debug\MySql.Data.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\bin\Debug\DTO.pdb
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\bin\Debug\MySql.Data.xml
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\obj\Debug\DAO.dll
+C:\Users\My Tien Bui\source\repos\GarageV1\DAO\obj\Debug\DAO.pdb
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\bin\Debug\DAO.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\bin\Debug\DAO.pdb
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\bin\Debug\DTO.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\bin\Debug\Google.Protobuf.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\bin\Debug\DTO.pdb
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\bin\Debug\MySql.Data.xml
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\obj\Debug\DAO.dll
+D:\Linh tinh\Demo-20181205T064952Z-001\Demo\GarageV1\DAO\obj\Debug\DAO.pdb
